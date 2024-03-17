@@ -39,6 +39,6 @@ contract Test {
         uint yPost = t.balanceOf(_to);
 
         assert(xPost == xPre - _amt);
-        assert(yPost == yPre + _amt);
+        assert(yPost ==
     }
 }
