@@ -37,7 +37,7 @@ jyutytghjk
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(address
         uint yPost = t.balanceOf(_to);
-
+ki;pk.;
         assert(xPost == xPre - _amt);
         assert(yPost ==
     }hgyuhyjkl;
