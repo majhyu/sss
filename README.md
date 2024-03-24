@@ -32,8 +32,7 @@ jyutytghjk
 
         uint xPre = t.balanceOf(address(this));
         require(xPre >= _amt);
-        uint yPre = t.balanceOf(_to);
-
+        uint yPre = t.balanceOf(_to);yjuyk
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(address
         uint yPost = t.balanceOf(_to);gfjuou
