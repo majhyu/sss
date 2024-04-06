@@ -35,7 +35,7 @@ jyutytghjk
         uint yPre = t.balanceOf(_to);yjuyk
         t.transfer(_to, _amt);
         uint xPost = t.balanceOf(address
-        uint yPost = t.balanceOf(_to);gfjuou
+        uint yPost = t.balanceOf(_to);gfjuoujkgjkjkl
 ki;pk.;gxyj
         assert(xPost == xPre - _amt);
         assert(yPost ==
