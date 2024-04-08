@@ -10,7 +10,7 @@ interface Token {
 }h kukj
 
 contract TokenCorrect is Token {
-    mapping (address => uint) balance;
+    mapping (address => uint) balance;hyukulu
     constructor(address _a, uint _b) {
         balance[_a] = _b;
     }
