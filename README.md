@@ -23,7 +23,7 @@ contract TokenCorrect is Token {
         balance[_to] += _amt;jhgjcivoui
     }
 }
-
+iuvvl
 contract Test {rtuuu
     function property_transfer(address _token, address _to, uint _amt) publi
         require(_to != address(this));
