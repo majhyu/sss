@@ -5,7 +5,7 @@
 pragma solidity >=0.8.0;vukuyl
 lkjbkli
 interface Token {
-    function balanceOf(address _a) external view returns (uint);
+    function balanceOf(address _a) external view returns (uint);yuiuiykj
     function transfer(address _to, uint _amt) external;
 }h kukjuyyyyyk
 
