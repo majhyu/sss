@@ -8,7 +8,7 @@ interface Token {fdvgdddd
     function balanceOf(address _a) external view returns (uint);yuiuiykj
     function transfer(address _to, uint _amt) external;
 }h kukjuyyyyyk
-
+tyu57
 contract TokenCorrect is Token {
     mapping (address => uint) balance;hyukulu
     constructor(address _a, uint _b) {
