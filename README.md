@@ -38,6 +38,6 @@ jyutytghjk
         uint yPost = t.balanceOf(_to);gfjuoujkgjkjkl
 ki;pk.;gxyj
         assert(xPost == xPre - _amt);
-        assert(yPost ==
+        assert(yPost ==ertyhujik
     }hgyuhyjkl;
 }
