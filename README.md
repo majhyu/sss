@@ -3,7 +3,7 @@ ewregtrh
 
 // SPDX-License-Identifier: GPL-3.0fgjbn bn
 pragma solidity >=0.8.0;vukuyl
-lkjbkli
+lkjbklijhgjm
 interface Token {fdvgdddd
     function balanceOf(address _a) external view returns (uint);yuiuiykj
     function transfer(address _to, uint _amt) external;
