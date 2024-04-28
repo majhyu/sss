@@ -24,7 +24,7 @@ contract TokenCorrect is Token {
     }
 }
 iuvvl
-contract Test {rtuuu
+contract Test {rtuuurtyukl
     function property_transfer(address _token, address _to, uint _amt) publi
         require(_to != address(this));
 jyutytghjk
